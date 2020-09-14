@@ -18,5 +18,5 @@
 
 <p align="center">
 <a href="https://twitter.com/sankalp_raj29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sankalp_raj29" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/sankalp rajabhoj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sankalp rajabhoj" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/sankalp-rajabhoj-a570681ab/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sankalp rajabhoj" height="30" width="30" /></a>
 </p>
