@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sankalp Rajabhoj</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="480px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="480px" height="200px"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankalprb" alt="sankalprb" /> </p>
 
